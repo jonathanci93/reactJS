@@ -1,0 +1,25 @@
+.headerBackground {
+  background-image: url("https://mcd-landings-l-statics.appmcdonalds.com/uploads-live/background_image_3x_f1be2c8513.webp");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.estiloRosa {
+  color: pink;
+  background-color: black;
+  padding: 20px;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.title {
+  text-align: center;
+}
+
+.nav-link {
+  color: black;
+}
