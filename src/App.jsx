@@ -5,7 +5,7 @@ function App() {
     <>
     <NavBar/>
     <h1 className="title">Invictus Tienda</h1>
-    <ItemListContainer mensaje={"Productos 20% descuento en efectivo"} />
+    <ItemListContainer greeting={"Productos 20% descuento en efectivo"} />
     </>
   )
 
